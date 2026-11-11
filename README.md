@@ -53,11 +53,6 @@ export const developer = {
     institute: "Narula Institute of Technology",
     year: "2nd Year (2025 - 2026)"
   },
-  team: {
-    handle: "ByteForge",
-    members: ["Ankit", "Aryan", "Souvik", "Sweta"],
-    track: "Cybersecurity & AI Trust"
-  },
   honors: [
     "2nd Runner-Up @ CodeVoyage 2026"
   ],
