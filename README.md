@@ -1,70 +1,54 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=090d13&height=130&section=header&text=Aryan%20Choudhary&fontSize=36&fontColor=f0f6fc&desc=AI/ML%20%E2%80%A2%20Full-Stack%20Systems%20%E2%80%A2%20Security%20Architecture&descSize=14&descColor=8b949e&descAlignY=75&fontAlignY=42" width="100%" alt="Aryan Choudhary" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=F0F6FC&center=true&vCenter=true&width=600&height=50&lines=Aryan+Choudhary" alt="Aryan Choudhary" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=1200&color=10B981&center=true&vCenter=true&width=600&lines=building+AI+you+can+actually+trust;AI%2FML+%C2%B7+full-stack+%C2%B7+security+%C2%B7+web3;shipping+one+idea+at+a+time" alt="typing" />
 
-  <p align="center">
-    <a href="https://github.com/aryanchoudhary"><img src="https://img.shields.io/badge/status-building-10b981?style=flat-square&labelColor=0d1117&color=10b981" alt="Status" /></a>
-    <a href="https://linkedin.com/in/aryanchoudhary"><img src="https://img.shields.io/badge/linkedin-%230d1117.svg?style=flat-square&logo=linkedin&logoColor=8b949e" alt="LinkedIn" /></a>
-    <a href="mailto:choudharyaryan3691@gmail.com"><img src="https://img.shields.io/badge/choudharyaryan3691%40gmail.com-%230d1117.svg?style=flat-square&logo=gmail&logoColor=10b981" alt="Email" /></a>
-  </p>
+<br/>
 
-</div>
+<a href="https://www.linkedin.com/in/aryan-choudhary-94b665388/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=10b981" alt="LinkedIn" /></a>
+<a href="mailto:choudharyaryan3691@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=10b981" alt="Email" /></a>
+<a href="https://github.com/awr1n-ai"><img src="https://img.shields.io/badge/%E2%97%8F%20building-0d1117?style=for-the-badge" alt="Status" /></a>
 
----
-
-### `01` // overview
-
-```ts
-const aryan = {
-  education: "B.Tech in CSE (AI & ML) @ Narula Institute of Technology",
-  focus: ["AI Security", "Full-Stack Architecture", "Distributed Systems"],
-  stack: ["TypeScript", "Next.js", "Python", "Java", "C", "TailwindCSS"],
-  recognition: "2nd Runner-Up @ CodeVoyage 2026",
-  contact: "choudharyaryan3691@gmail.com"
-};
-```
-
----
-
-### `02` // selected works
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>AgentShield</b> &nbsp;<code>AI Security</code>
-      <p>Trust & permission firewall regulating autonomous AI agent interactions with core banking systems.</p>
-      <sub><code>Next.js</code> • <code>Python</code> • <code>Zero-Trust</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>MediQueue</b> &nbsp;<code>Full-Stack</code>
-      <p>Smart OPD queue management engine with real-time appointment routing and admin analytics dashboards.</p>
-      <sub><code>Next.js</code> • <code>React</code> • <code>TailwindCSS</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Milestone Pot</b> &nbsp;<code>Web3 Auth</code>
-      <p>Passkey-authenticated smart account protocol built on Monad for scheduled milestone-based fund releases.</p>
-      <sub><code>Monad</code> • <code>Passkeys</code> • <code>TypeScript</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>RainGuard</b> &nbsp;<code>IoT Hardware</code>
-      <p>Automated weather-reactive canopy prototype utilizing rain sensors and low-latency servo actuation.</p>
-      <sub><code>C++</code> • <code>Arduino Uno</code> • <code>Sensors</code></sub>
-    </td>
-  </tr>
-</table>
-
----
-
-### `03` // tooling
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,py,java,c,cpp,git,github,linux&theme=dark" alt="Tech Stack" />
 </div>
 
 <br/>
 
+```console
+$ whoami
+aryan · cse (ai & ml) @ narula institute of technology, kolkata
+
+$ cat focus.txt
+ai security  ·  full-stack systems  ·  web3
+
+$ ls achievements/
+2nd-runner-up--codevoyage-2026
+```
+
+<br/>
+
+### ⌁ selected work
+
+**AgentShield** &nbsp;—&nbsp; trust & permission firewall for AI agents touching core banking  
+<sub>`next.js` `python` `zero-trust`</sub>
+
+**MediQueue** &nbsp;—&nbsp; smart OPD queue with real-time routing and admin analytics  
+<sub>`next.js` `react` `tailwind`</sub>
+
+**Milestone Pot** &nbsp;—&nbsp; passkey-secured smart account on Monad for milestone payouts  
+<sub>`monad` `passkeys` `typescript`</sub>
+
+**RainGuard** &nbsp;—&nbsp; weather-reactive canopy driven by rain sensors and servos  
+<sub>`c++` `arduino` `iot`</sub>
+
+<br/>
+
+### ⌁ toolkit
+
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,py,java,c,cpp,git,linux&theme=dark" alt="Tech Stack" />
+
+<br/><br/>
+
 <div align="center">
-  <sub><code>静けさ</code> &nbsp;•&nbsp; flow like water, build like stone.</sub>
+<sub><code>静けさ</code> &nbsp;·&nbsp; flow like water, build like stone.</sub>
 </div>
