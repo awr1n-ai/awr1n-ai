@@ -1,0 +1,34 @@
+name: Update profile art
+
+on:
+  schedule:
+    - cron: "23 20 * * *" # daily, ~01:53 IST
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/update-profile-art.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  heatmap:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Fetch contributions
+        run: python scripts/fetch_contributions.py awr1n-ai data/contributions.json
+      - name: Render heatmap
+        run: python scripts/render_heatmap_svg.py data/contributions.json contrib-heatmap.svg
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/contributions.json contrib-heatmap.svg
+          git diff --cached --quiet || git commit -m "chore: refresh contribution heatmap"
+          git push

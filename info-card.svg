@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="560" viewBox="0 0 490 560" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<rect x=".5" y=".5" width="489" height="559" rx="8" fill="#0d1117" stroke="#30363d"/>
+<path d="M.5 34V8.5a8 8 0 0 1 8-8h473a8 8 0 0 1 8 8V34z" fill="#161b22"/>
+<line x1="0" y1="34" x2="490" y2="34" stroke="#30363d"/>
+<circle cx="20" cy="17" r="6" fill="#ff5f56"/><circle cx="40" cy="17" r="6" fill="#ffbd2e"/><circle cx="60" cy="17" r="6" fill="#27c93f"/>
+<text x="245.0" y="22" text-anchor="middle" font-size="12" fill="#8b949e">awr1n@github</text>
+<text x="28" y="74" font-size="15" opacity="0"><tspan fill="#58a6ff" font-weight="700">awr1n@github</tspan><animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.3s" fill="freeze"/></text>
+<text x="28" y="104" font-size="15" opacity="0"><tspan fill="#8b949e">------------</tspan><animate attributeName="opacity" from="0" to="1" begin="0.48s" dur="0.3s" fill="freeze"/></text>
+<text x="28" y="134" font-size="13" opacity="0"><tspan fill="#3fb950" font-weight="700">Name</tspan><tspan x="150" fill="#c9d1d9">Aryan Choudhary</tspan><animate attributeName="opacity" from="0" to="1" begin="0.66s" dur="0.3s" fill="freeze"/></text>
+<text x="28" y="162" font-size="13" opacity="0"><tspan fill="#3fb950" font-weight="700">Location</tspan><tspan x="150" fill="#c9d1d9">Kolkata, India</tspan><animate attributeName="opacity" from="0" to="1" begin="0.84s" dur="0.3s" fill="freeze"/></text>
+<text x="28" y="190" font-size="13" opacity="0"><tspan fill="#3fb950" font-weight="700">Role</tspan><tspan x="150" fill="#c9d1d9">B.Tech CSE (AI &amp; ML) @ Narula</tspan><animate attributeName="opacity" from="0" to="1" begin="1.02s" dur="0.3s" fill="freeze"/></text>
+<text x="28" y="218" font-size="13" opacity="0"><tspan fill="#3fb950" font-weight="700">Built</tspan><tspan x="150" fill="#c9d1d9">AgentShield · MediQueue</tspan><animate attributeName="opacity" from="0" to="1" begin="1.20s" dur="0.3s" fill="freeze"/></text>
+<text x="28" y="246" font-size="13" opacity="0"><tspan x="150" fill="#c9d1d9">Milestone Pot · RainGuard</tspan><animate attributeName="opacity" from="0" to="1" begin="1.38s" dur="0.3s" fill="freeze"/></text>
+<text x="28" y="274" font-size="13" opacity="0"><tspan fill="#3fb950" font-weight="700">Stack</tspan><tspan x="150" fill="#c9d1d9">TypeScript · Next.js · React</tspan><animate attributeName="opacity" from="0" to="1" begin="1.56s" dur="0.3s" fill="freeze"/></text>
+<text x="28" y="302" font-size="13" opacity="0"><tspan x="150" fill="#c9d1d9">Python</tspan><animate attributeName="opacity" from="0" to="1" begin="1.74s" dur="0.3s" fill="freeze"/></text>
+<text x="28" y="330" font-size="13" opacity="0"><tspan fill="#3fb950" font-weight="700">Contact</tspan><tspan x="150" fill="#c9d1d9">choudharyaryan3691@gmail.com</tspan><animate attributeName="opacity" from="0" to="1" begin="1.92s" dur="0.3s" fill="freeze"/></text>
+<rect x="28" y="372" width="26" height="16" rx="2" fill="#0d1117" stroke="#30363d"/>
+<rect x="58" y="372" width="26" height="16" rx="2" fill="#ff7b72" stroke="#30363d"/>
+<rect x="88" y="372" width="26" height="16" rx="2" fill="#3fb950" stroke="#30363d"/>
+<rect x="118" y="372" width="26" height="16" rx="2" fill="#d29922" stroke="#30363d"/>
+<rect x="148" y="372" width="26" height="16" rx="2" fill="#58a6ff" stroke="#30363d"/>
+<rect x="178" y="372" width="26" height="16" rx="2" fill="#bc8cff" stroke="#30363d"/>
+<rect x="208" y="372" width="26" height="16" rx="2" fill="#39c5cf" stroke="#30363d"/>
+<rect x="238" y="372" width="26" height="16" rx="2" fill="#c9d1d9" stroke="#30363d"/>
+<text x="28" y="532" font-size="14" fill="#c9d1d9"><tspan fill="#3fb950">awr1n@github</tspan> ~ $ <tspan fill="#c9d1d9">█<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.51;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+</svg>
